@@ -35,8 +35,15 @@ Upstage AI Lab 22기 수료 (2025.12 ~ 2026.06)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KOheejun&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOheejun&layout=compact&hide_border=true&theme=default&langs_count=6&hide=Jupyter%20Notebook" height="150"/>
 </p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![wandb](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 ---
 
