@@ -31,6 +31,15 @@ Upstage AI Lab 22기 수료 (2025.12 ~ 2026.06)
 
 ---
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KOheejun&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOheejun&layout=compact&hide_border=true&theme=default&langs_count=6" height="150"/>
+</p>
+
+---
+
 ## 연락처
 
 📧 icicle424@gmail.com  
