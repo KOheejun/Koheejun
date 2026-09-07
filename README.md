@@ -11,14 +11,17 @@ Upstage AI Lab 22기 수료 (2025.12 ~ 2026.06)
 
 | 프로젝트 | 핵심 기술 | 결과 |
 |---------|----------|------|
-| [나의 여정 — 개인 AI 여행 일지](https://github.com/KOheejun/personal-journal) | TypeScript · React · Supabase · OpenAI/Anthropic API · Cloudflare Workers | 브라우저 VAD, 구간별 전사·재처리, 원본 보존·비용 관리 구현 |
+| 나의 여정 — 개인 AI 여행 일지 (비공개 저장소) | TypeScript · React · Supabase · OpenAI/Anthropic API · Cloudflare Workers | 브라우저 VAD, 구간별 전사·재처리, 원본 보존·비용 관리 구현 |
+| [WaitLess AI — 헬프데스크 AX 프로토타입](https://github.com/KOheejun/waitless-ai) | TypeScript · React · 실데이터 병목 분석 | [라이브 데모](https://waitless-ai-amber.vercel.app) |
 | [이커머스 추천 시스템](https://github.com/KOheejun/recsys-ecommerce) | TiSASRec · MB-STR · LightGBM Reranker · Hydra | NDCG@10 0.1524 |
 | [과학 지식 RAG 검색](https://github.com/KOheejun/rag-science-search) | BGE-M3 · Qdrant · Qwen3-8B Reranker (LoRA) | MAP 0.9447 |
 | [한국어 대화 요약](https://github.com/KOheejun/nlp-dialogue-summary) | Qwen3-8B · MBR · Selective Swap | ROUGE 52.5876 |
 | [의료문서 이미지 분류](https://github.com/KOheejun/cv-doc-classification) | ConvNeXt · Swin · OCR 타이브레이커 | F1 0.9357 |
 | [아파트 실거래가 예측](https://github.com/KOheejun/real-estate-price) | CatBoost · sample_weight 이상치 처리 | RMSE 23,137 |
-| [영화 평점 MLOps 파이프라인](https://github.com/KOheejun/mlops-movie-rating) | FastAPI · wandb · numpy MLP | 전체 파이프라인 구현 |
+| [영화 평점 MLOps 파이프라인](https://github.com/KOheejun/mlops-movie-rating) | numpy 신경망 · BentoML · Docker/EC2 · Airflow | 수집→학습→서빙→자동화 전체 구현 |
 | [LectureLens](https://github.com/KOheejun/lecturelens) | Solar Pro 2 · faster-whisper · Streamlit | 개인 프로젝트 |
+
+> `나의 여정`은 여행 중 개인 음성·사진 원본을 다루는 프로젝트라 현재 비공개로 두고 있습니다. 코드 열람이 필요하시면 연락 주세요.
 
 ---
 
@@ -26,7 +29,8 @@ Upstage AI Lab 22기 수료 (2025.12 ~ 2026.06)
 
 **ML/DL** &nbsp; PyTorch · HuggingFace · LightGBM · CatBoost · scikit-learn  
 **LLM/RAG** &nbsp; LangChain · Qdrant · vLLM · LoRA (Unsloth)  
-**실험 관리** &nbsp; Weights & Biases · Hydra · MLflow  
+**실험 관리** &nbsp; Weights & Biases · Hydra  
+**MLOps/배포** &nbsp; BentoML · Docker · AWS EC2 · Apache Airflow  
 **서버·데이터** &nbsp; FastAPI · Supabase · PostgreSQL · REST API · Cloudflare Workers  
 **애플리케이션** &nbsp; React · PWA · Streamlit  
 **언어** &nbsp; Python · TypeScript · SQL
@@ -49,6 +53,7 @@ Upstage AI Lab 22기 수료 (2025.12 ~ 2026.06)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![wandb](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
